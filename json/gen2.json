@@ -1,0 +1,908 @@
+[
+  {   
+    "id": "152",
+    "img": "",
+    "name": "Chikorita",
+    "type": "Grass"
+  },
+  { 
+    "id": "153",
+    "img": "",
+    "name": "Bayleef",
+    "type": "Grass"
+  },
+  { 
+    "id": "154",
+    "img": "",
+    "name": "Meganium",
+    "type": "Grass"
+  },
+  { 
+    "id": "155",
+    "img": "",
+    "name": "Cyndaquil",
+    "type": "Fire"
+  },
+  { 
+    "id": "156",
+    "img": "",
+    "name": "Quilava",
+    "type": "Fire"
+  },
+  { 
+    "id": "157",
+    "img": "",
+    "name": "Typhlosion",
+    "type": "Fire & Flying"
+  },
+  { 
+    "id": "158",
+    "img": "",
+    "name": "Totodile",
+    "type": "Water"
+  },
+  { 
+    "id": "159",
+    "img": "",
+    "name": "Croconaw",
+    "type": "Water"
+  },
+  { 
+    "id": "160",
+    "img": "",
+    "name": "Feraligatr",
+    "type": "Water"
+  },
+  { 
+    "id": "161",
+    "img": "",
+    "name": "Sentret",
+    "type": "Normal"
+  },
+  { 
+    "id": "162",
+    "img": "",
+    "name": "Furret",
+    "type": "Normal"
+  },
+  { 
+    "id": "163",
+    "img": "",
+    "name": "Hoothoot",
+    "type": "Normal & Flying"
+  },
+  { 
+    "id": "164",
+    "img": "",
+    "name": "Noctowl",
+    "type": "Normal & Flying"
+  },
+  { 
+    "id": "165",
+    "img": "",
+    "name": "Ledyba",
+    "type": "Bug & Flying"
+  },
+  { 
+    "id": "166",
+    "img": "",
+    "name": "Ledian",
+    "type": "Bug & Flying"
+  },
+  { 
+    "id": "167",
+    "img": "",
+    "name": "Spinarak",
+    "type": "Bug & Poison"
+  },
+  { 
+    "id": "168",
+    "img": "",
+    "name": "Ariados",
+    "type": "Bug & Poison"
+  },
+  { 
+    "id": "169",
+    "img": "",
+    "name": "Crobat",
+    "type": "Poison & Flying"
+  },
+  { 
+    "id": "170",
+    "img": "",
+    "name": "Chinchou",
+    "type": "Water & Electric"
+  },
+  { 
+    "id": "171",
+    "img": "",
+    "name": "lanturn",
+    "type": "Water & Electric"
+  },
+  { 
+    "id": "172",
+    "img": "",
+    "name": "Pichu",
+    "type": "Electric"
+  },
+  { 
+    "id": "173",
+    "img": "",
+    "name": "Cleffa",
+    "type": "Fairy"
+  },
+  { 
+    "id": "174",
+    "img": "",
+    "name": "igglybuff",
+    "type": "Normal & Fairy"
+  },
+  { 
+    "id": "175",
+    "img": "",
+    "name": "Togepi",
+    "type": "Fairy"
+  },
+  { 
+    "id": "176",
+    "img": "",
+    "name": "Togetic",
+    "type": "Fairy & Flying"
+  },
+  { 
+    "id": "177",
+    "img": "",
+    "name": "Natu",
+    "type": "Psychic & Flying"
+  },
+  { 
+    "id": "178",
+    "img": "",
+    "name": "Xatu",
+    "type": "Psychic & Flying"
+  },
+  { 
+    "id": "179",
+    "img": "",
+    "name": "Mareep",
+    "type": "Electric"
+  },
+  { 
+    "id": "180",
+    "img": "",
+    "name": "Flaffy",
+    "type": "Electric"
+  },
+  { 
+    "id": "181",
+    "img": "",
+    "name": "Ampharos",
+    "type": "Electric"
+  },
+  { 
+    "id": "182",
+    "img": "",
+    "name": "Bellossom",
+    "type": "Grass"
+  },
+  { 
+    "id": "183",
+    "img": "",
+    "name": "Marill",
+    "type": "Water & Fairy"
+  },
+  { 
+    "id": "184",
+    "img": "",
+    "name": "Azumarill",
+    "type": "Water & Fairy"
+  },
+  { 
+    "id": "185",
+    "img": "",
+    "name": "Sudowoodo",
+    "type": "Rock"
+  },
+  { 
+    "id": "186",
+    "img": "",
+    "name": "Politoed",
+    "type": "Water"
+  },
+  { 
+    "id": "187",
+    "img": "",
+    "name": "Hoppip",
+    "type": "Grass & Flying"
+  },
+  { 
+    "id": "188",
+    "img": "",
+    "name": "Skiploom",
+    "type": "Grass & Flying"
+  },
+  { 
+    "id": "189",
+    "img": "",
+    "name": "Jumpluff",
+    "type": "Grass & Flying"
+  },
+  { 
+    "id": "190",
+    "img": "",
+    "name": "Aipom",
+    "type": "Normal"
+  },
+  { 
+    "id": "191",
+    "img": "",
+    "name": "Sunkern",
+    "type": "Grass"
+  },
+  { 
+    "id": "192",
+    "img": "",
+    "name": "Sunflora",
+    "type": "Grass"
+  },
+  { 
+    "id": "193",
+    "img": "",
+    "name": "Yanma",
+    "type": "Bug & Flying"
+  },
+  { 
+    "id": "194",
+    "img": "",
+    "name": "Wooper",
+    "type": "Water & Ground"
+  },
+  { 
+    "id": "195",
+    "img": "",
+    "name": "Quagsire",
+    "type": "Water & Ground"
+  },
+  { 
+    "id": "196",
+    "img": "",
+    "name": "Espeon",
+    "type": "Psychic"
+  },
+  { 
+    "id": "197",
+    "img": "",
+    "name": "Umbreon",
+    "type": "Dark"
+  },
+  { 
+    "id": "198",
+    "img": "",
+    "name": "Murkrow",
+    "type": "Dark & Flying"
+  },
+  { 
+    "id": "199",
+    "img": "",
+    "name": "Slowking",
+    "type": "Water & Psychic"
+  },
+  { 
+    "id": "200",
+    "img": "",
+    "name": "Misdreavus",
+    "type": "Ghost"
+  },
+  { 
+    "id": "201",
+    "img": "",
+    "name": "Unown",
+    "type": "Psychic"
+  },
+  { 
+    "id": "202",
+    "img": "",
+    "name": "Wobbuffet",
+    "type": "Psychic"
+  },
+  { 
+    "id": "203",
+    "img": "",
+    "name": "Girafig",
+    "type": "Normal & Psychic"
+  },
+  { 
+    "id": "204",
+    "img": "",
+    "name": "Pineco",
+    "type": "Bug"
+  },
+  { 
+    "id": "205",
+    "img": "",
+    "name": "Forretress",
+    "type": "Bug & Steel"
+  },
+  { 
+    "id": "20",
+    "img": "",
+    "name": "Golduck",
+    "type": "Water"
+  },
+  { 
+    "id": "20",
+    "img": "",
+    "name": "Mankey",
+    "type": "Fighting"
+  },
+  { 
+    "id": "20",
+    "img": "",
+    "name": "Primeape",
+    "type": "Fighting"
+  },
+  { 
+    "id": "20",
+    "img": "",
+    "name": "Growlithe",
+    "type": "Fire"
+  },
+  { 
+    "id": "20",
+    "img": "",
+    "name": "Arcanine",
+    "type": "Fire"
+  },
+  { 
+    "id": "060",
+    "img": "",
+    "name": "Poliwag",
+    "type": "Water"
+  },
+  { 
+    "id": "061",
+    "img": "",
+    "name": "Poliwhirl",
+    "type": "Water"
+  },
+  { 
+    "id": "062",
+    "img": "",
+    "name": "Poliwrath",
+    "type": "Water & Fighting"
+  },
+  { 
+    "id": "063",
+    "img": "",
+    "name": "Abra",
+    "type": "Psychic"
+  },
+  { 
+    "id": "064",
+    "img": "",
+    "name": "Kadabra",
+    "type": "Psychic"
+  },
+  { 
+    "id": "065",
+    "img": "",
+    "name": "Alakazam",
+    "type": "Psychic"
+  },
+  { 
+    "id": "066",
+    "img": "",
+    "name": "Machop",
+    "type": "Fighting"
+  },
+  { 
+    "id": "067",
+    "img": "",
+    "name": "Machoke",
+    "type": "Fighting"
+  },
+  { 
+    "id": "068",
+    "img": "",
+    "name": "Machamp",
+    "type": "Fighting"
+  },
+  { 
+    "id": "069",
+    "img": "",
+    "name": "Bellsprout",
+    "type": "Grass & Poison"
+  },
+  { 
+    "id": "070",
+    "img": "",
+    "name": "Weepinbell",
+    "type": "Grass & Poison"
+  },
+  { 
+    "id": "071",
+    "img": "",
+    "name": "Victreebel",
+    "type": "Grass & Poison"
+  },
+  { 
+    "id": "072",
+    "img": "",
+    "name": "Tentacool",
+    "type": "Water & Poison"
+  },
+  { 
+    "id": "073",
+    "img": "",
+    "name": "Tentacruel",
+    "type": "Water & Poison"
+  },
+  { 
+    "id": "074",
+    "img": "",
+    "name": "Geodude",
+    "type": "Rock & Ground"
+  },
+  { 
+    "id": "075",
+    "img": "",
+    "name": "Graveler",
+    "type": "Rock & Ground"
+  },
+  { 
+    "id": "076",
+    "img": "",
+    "name": "Golem",
+    "type": "Rock & Ground"
+  },
+  { 
+    "id": "077",
+    "img": "",
+    "name": "Ponyta",
+    "type": "Fire"
+  },
+  { 
+    "id": "078",
+    "img": "",
+    "name": "Rapidash",
+    "type": "Fire"
+  },
+  { 
+    "id": "079",
+    "img": "",
+    "name": "Slowpoke",
+    "type": "Water & Psychic"
+  },
+  { 
+    "id": "080",
+    "img": "",
+    "name": "Slowbro",
+    "type": "Water & Psychic"
+  },
+  { 
+    "id": "081",
+    "img": "",
+    "name": "Magnemite",
+    "type": "Electric & Steel"
+  },
+  { 
+    "id": "082",
+    "img": "",
+    "name": "Magneton",
+    "type": "Electric & Steel"
+  },
+  { 
+    "id": "083",
+    "img": "",
+    "name": "Farfetch'd",
+    "type": "Normal & Flying"
+  },
+  { 
+    "id": "084",
+    "img": "",
+    "name": "Doduo",
+    "type": "Normal & Flying"
+  },
+  { 
+    "id": "085",
+    "img": "",
+    "name": "Dodrio",
+    "type": "Normal & Flying"
+  },
+  { 
+    "id": "086",
+    "img": "",
+    "name": "Seel",
+    "type": "Water"
+  },
+  { 
+    "id": "087",
+    "img": "",
+    "name": "Dewgong",
+    "type": "Ice"
+  },
+  { 
+    "id": "088",
+    "img": "",
+    "name": "Grimer",
+    "type": "Poison"
+  },
+  { 
+    "id": "089",
+    "img": "",
+    "name": "Muk",
+    "type": "Poison"
+  },
+  { 
+    "id": "090",
+    "img": "",
+    "name": "Shellder",
+    "type": "Water"
+  },
+  { 
+    "id": "091",
+    "img": "",
+    "name": "Cloyster",
+    "type": "Water & Ice"
+  },
+  { 
+    "id": "092",
+    "img": "",
+    "name": "Gastly",
+    "type": "Ghost & Poison"
+  },
+  { 
+    "id": "093",
+    "img": "",
+    "name": "Haunter",
+    "type": "Ghost & Poison"
+  },
+  { 
+    "id": "094",
+    "img": "",
+    "name": "Gengar",
+    "type": "Ghost & Poison"
+  },
+  { 
+    "id": "095",
+    "img": "",
+    "name": "Onix",
+    "type": "Rock & Ground"
+  },
+  { 
+    "id": "096",
+    "img": "",
+    "name": "Drowzee",
+    "type": "Psychic"
+  },
+  { 
+    "id": "097",
+    "img": "",
+    "name": "Hypno",
+    "type": "Psychic"
+  },
+  { 
+    "id": "098",
+    "img": "",
+    "name": "Krabby",
+    "type": "Water"
+  },
+  { 
+    "id": "099",
+    "img": "",
+    "name": "Kingler",
+    "type": "Water"
+  },
+  { 
+    "id": "100",
+    "img": "",
+    "name": "Voltorb",
+    "type": "Electric"
+  },
+  { 
+    "id": "101",
+    "img": "",
+    "name": "Electrode",
+    "type": "Electric"
+  },
+  { 
+    "id": "102",
+    "img": "",
+    "name": "Exeggcute",
+    "type": "Grass & Pyschic"
+  },
+  { 
+    "id": "103",
+    "img": "",
+    "name": "Exeggutor",
+    "type": "Grass & Pyschic"
+  },
+  { 
+    "id": "104",
+    "img": "",
+    "name": "Cubone",
+    "type": "Ground"
+  },
+  { 
+    "id": "105",
+    "img": "",
+    "name": "Marowak",
+    "type": "Ground"
+  },
+  { 
+    "id": "106",
+    "img": "",
+    "name": "Hitmonlee",
+    "type": "Fighting"
+  },
+  { 
+    "id": "107",
+    "img": "Hitmonchan",
+    "name": "",
+    "type": "Fighting"
+  },
+  { 
+    "id": "108",
+    "img": "",
+    "name": "Lickitung",
+    "type": "Normal"
+  },
+  { 
+    "id": "109",
+    "img": "",
+    "name": "Koffing",
+    "type": "Poison"
+  },
+  { 
+    "id": "110",
+    "img": "",
+    "name": "Weezing",
+    "type": "Poison"
+  },
+  { 
+    "id": "111",
+    "img": "",
+    "name": "Rhyhorn",
+    "type": "Ground & Rock"
+  },
+  { 
+    "id": "112",
+    "img": "",
+    "name": "Rhydon",
+    "type": "Ground & Rock"
+  },
+  { 
+    "id": "113",
+    "img": "",
+    "name": "Chansey",
+    "type": "Normal"
+  },
+  { 
+    "id": "114",
+    "img": "",
+    "name": "Tangela",
+    "type": "Grass"
+  },
+  { 
+    "id": "115",
+    "img": "",
+    "name": "Kangaskhan",
+    "type": "Normal"
+  },
+  { 
+    "id": "116",
+    "img": "",
+    "name": "Horsea",
+    "type": "Water"
+  },
+  { 
+    "id": "117",
+    "img": "",
+    "name": "Seadra",
+    "type": "Water"
+  },
+  { 
+    "id": "118",
+    "img": "",
+    "name": "Goldeen",
+    "type": "Water"
+  },
+  { 
+    "id": "119",
+    "img": "",
+    "name": "Seaking",
+    "type": "Water"
+  },
+  { 
+    "id": "120",
+    "img": "",
+    "name": "Staryu",
+    "type": "Water"
+  },
+  { 
+    "id": "121",
+    "img": "",
+    "name": "Starmie",
+    "type": "Water & Psychic"
+  },
+  { 
+    "id": "122",
+    "img": "",
+    "name": "Mr. Mime",
+    "type": "Psychic & Fairy" 
+  },
+  { 
+    "id": "123",
+    "img": "",
+    "name": "Scyther",
+    "type": "Bug & Flying"
+  },
+  { 
+    "id": "124",
+    "img": "",
+    "name": "Jynx",
+    "type": "Ice & Psychich"
+  },
+  { 
+    "id": "125",
+    "img": "",
+    "name": "Electabuzz",
+    "type": "Electric"
+  },
+  { 
+    "id": "126",
+    "img": "",
+    "name": "Magmar",
+    "type": "Fire"
+  },
+  { 
+    "id": "127",
+    "img": "",
+    "name": "Pinsir",
+    "type": "Bug"
+  },
+  { 
+    "id": "128",
+    "img": "",
+    "name": "Tauros",
+    "type": "Normal"
+  },
+  { 
+    "id": "129",
+    "img": "",
+    "name": "Magikarp",
+    "type": "Water"
+  },
+  { 
+    "id": "130",
+    "img": "",
+    "name": "Gyarados",
+    "type": "Water & Flying"
+  },
+  { 
+    "id": "131",
+    "img": "",
+    "name": "Lapras",
+    "type": "Water & Ice"
+  },
+  { 
+    "id": "132",
+    "img": "",
+    "name": "Ditto",
+    "type": "Normal"
+  },
+  { 
+    "id": "133",
+    "img": "",
+    "name": "Eevee",
+    "type": "Normal"
+  },
+  { 
+    "id": "134",
+    "img": "",
+    "name": "Vaporeon",
+    "type": "Water"
+  },
+  { 
+    "id": "135",
+    "img": "",
+    "name": "Jolteon",
+    "type": "Electric"
+  },
+  { 
+    "id": "136",
+    "img": "",
+    "name": "Falreon",
+    "type": "Fire"
+  },
+  { 
+    "id": "137",
+    "img": "",
+    "name": "Porygon",
+    "type": "Normal"
+  },
+  { 
+    "id": "138",
+    "img": "",
+    "name": "Omanyte",
+    "type": "Rock & Water"
+  },
+  { 
+    "id": "139",
+    "img": "",
+    "name": "Omastar",
+    "type": "Rock & Water"
+  },
+  { 
+    "id": "140",
+    "img": "",
+    "name": "Kabuto",
+    "type": "Rock & Water"
+  },
+  { 
+    "id": "141",
+    "img": "",
+    "name": "Kabutops",
+    "type": "Rock & Water"
+  },
+  { 
+    "id": "142",
+    "img": "",
+    "name": "Aerodactyl",
+    "type": "Rock & Flying"
+  },
+  { 
+    "id": "143",
+    "img": "",
+    "name": "Snorlax",
+    "type": "Normal"
+  },
+  { 
+    "id": "144",
+    "img": "",
+    "name": "Articuno",
+    "type": "Ice & Flying"
+  },
+  { 
+    "id": "145",
+    "img": "",
+    "name": "Zapdos",
+    "type": "Electric & Flying"
+  },
+  { 
+    "id": "146",
+    "img": "",
+    "name": "Moltres",
+    "type": "Fire & Flying"
+  },
+  { 
+    "id": "147",
+    "img": "",
+    "name": "Dratini",
+    "type": "Dragon"
+  },
+  { 
+    "id": "148",
+    "img": "",
+    "name": "Dragonair",
+    "type": "Dragon"
+  },
+  { 
+    "id": "149",
+    "img": "",
+    "name": "Dragonite",
+    "type": "Dragon & Flying"
+  },
+  { 
+    "id": "150",
+    "img": "",
+    "name": "Mewtwo",
+    "type": "Psychic"
+  },
+  { 
+    "id": "151",
+    "img": "",
+    "name": "Mew",
+    "type": "Psychic"
+  }
+]
