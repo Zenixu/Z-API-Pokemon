@@ -1,3 +1,5 @@
 img {
-  width: 40px;
+  width: 150px;
+  list-style: none;
+  list-style-type: none;
 }
