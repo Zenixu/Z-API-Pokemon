@@ -1,9 +1,9 @@
 const content = document.querySelector('#content')
-const url = './json/gen1.json'
+const url = './json/gen3.json'
 const hitAPI = async(url) => {
-  const api = await fetch(url)
-  const data = await api.json()
-  return data
+const api = await fetch(url)
+const data = await api.json()
+return data
 };
 document.addEventListener('DOMContentLoaded', async () => {
   let data = await hitAPI(url)
@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     data.forEach((e) => {
       dataHTML += `
       <ul>
-        <li>
+        <li class="card">
           <p>NoDex : ${e.id}</p>
           <p><img src="${e.img}"></p>
           <p>Nama : ${e.name}</p>
